@@ -1,0 +1,2 @@
+# AlchemyMinecraft
+A game made in unity where you combine elements to create new ones, similar to the game Little Alchemy on iOS and Android. After creating new elements, some of them are placeable in a voxel world with both a God View and First Person view (toggle with the T key). To put items in your inventory, navigate to the "Creatable" in the menu, click on an element, and press 1-9 to place it in the appropriate spot in your inventory. Once you have the elements you need, press the 'E' key to close the menu and start building your world!
